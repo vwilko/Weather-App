@@ -1,0 +1,33 @@
+body {
+  font-family: "Staatliches", cursive;
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+  color: azure;
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+.today {
+  font-size: 60px;
+}
+
+.card {
+  background-color: #13547a;
+  border-color: aliceblue;
+  border-style: solid;
+}
+
+.temperature {
+  font-size: 120px;
+}
+
+.units {
+  font-size: 30px;
+  position: relative;
+  top: -55px;
+}
+span {
+  font-size: 30px;
+}
